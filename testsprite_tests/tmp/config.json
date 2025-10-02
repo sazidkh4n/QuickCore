@@ -1,0 +1,12 @@
+{
+  "status": "init",
+  "executionArgs": {
+    "projectName": "quickcore v1",
+    "projectPath": "C:/Users/sazid/Documents/QuickCore By Cursor/quickcore v1",
+    "testIds": [],
+    "additionalInstruction": "Focus on the Feed page (FeedScreen) in lib/features/feed/presentation/feed_screen.dart. Generate and execute relevant frontend tests for this screen.",
+    "envs": {
+      "API_KEY": "sk-user-V-gnRlpTdINtfYfsyMdfTe3S0qIY8tovVVrwmfnc56hrEwQTW9L1myH-SFLWJ7V3fMBpfRIvvWpTAtqhBI7sxPy4ch7inLMsutecOuCu3fdpZepw8d1Xm8W6gmdJNzJKIac"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+# supabase/config.toml
+
+[functions]
+  [functions.increment_view_count]
+    entrypoint = "./edge_functions/increment_view_count/index.ts"
+    import_map = "./edge_functions/import_map.json"
+  
+  [functions.s3_upload]
+    entrypoint = "./edge_functions/s3_upload/index.ts"
+    import_map = "./edge_functions/import_map.json" 
+
+[db]
+port = 54330
+major_version = 15 
+
+[api]
+port = 54329
+
+[analytics]
+port = 54331
+enabled = true 
