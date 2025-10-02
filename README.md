@@ -6,7 +6,16 @@ A mobile-first platform built with React Native for creators to share engaging, 
 
 ## 📸 App Preview
 
-*(GIF or screenshots of app in action.)*
+### Live Demo
+![QuickCore App Demo](quickcore_Demo.gif)
+
+### Screenshots
+<p align="center">
+  <img src="Screenshot%202025-10-02%20154049.png" width="200" alt="Screenshot 1">
+  <img src="Screenshot%202025-10-02%20154039.png" width="200" alt="Screenshot 2">
+  <img src="Screenshot%202025-10-02%20154031.png" width="200" alt="Screenshot 3">
+  <img src="Screenshot%202025-10-02%20152914.png" width="200" alt="Screenshot 4">
+</p>
 
 ---
 
